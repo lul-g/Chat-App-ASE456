@@ -23,11 +23,10 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/
-    - assets/fonts/
+    - lib/assets/images/
 
   fonts:
     - family: Spartan MB
       fonts:
-        - asset: fonts/SpartanMB-Black.otf
+        - asset: lib/assets/fonts/SpartanMB-Black.otf
           weight: 900
