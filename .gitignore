@@ -1,4 +1,5 @@
 # Miscellaneous
+/documents/file_structure.md
 *.class
 *.log
 *.pyc
